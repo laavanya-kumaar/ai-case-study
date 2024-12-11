@@ -1,25 +1,24 @@
-# Customer Service with AI
+# **<p align="center">Customer Service with AI (Tidio)</p>**
 
 ## Overview and Origin
 
-In today's world, customer service is a predomiant element in sales and marketing. Tidio is leading in this service by using artifical intelligence to address customer needs. Tidio is a Poland based startup founded in 2013. It was steadily growing and saw demand for its services during COVID-19 pandemic. Tytus Gołas founded Tidio and he was a  finalist in Sebastian Kulczyk's InCredibles tech acceleration program and was twice named to Forbes 30 Under 30 . Marcin Wiktor is the Co-Founder at Tidio. Marcin Wiktor attended University of Gdansk.
+<p>In today's world, customer service is a predomiant element in sales and marketing. Tidio is leading in this service by using artifical intelligence to address customer needs. Tidio is a Poland based startup founded in 2013. It was steadily growing and saw demand for its services during COVID-19 pandemic. </p>
+<p>Tytus Gołas founded Tidio and he was a  finalist in Sebastian Kulczyk's InCredibles tech acceleration program and was twice named to Forbes 30 Under 30 . Marcin Wiktor is the Co-Founder at Tidio. Marcin Wiktor attended University of Gdansk.Tidio started as a digital advertising agency for small and medium business. During pandemic, because of the increase in online shopping, there was a overwhelming need to address the customer requests. Tidio stepped in here and it evolved into a development house for online marketing tools.
+</p>
+<p>Tidio is funded by venture capilists. Tidio had a total of two funding rounds so far and has raised a total of <em><strong>$26.8M</strong></em> .  PeakSpan Capital, Rafal Brzoska, Inovo VC, bValue, and Mariusz Fyrstenberg have invested in Tidio. In its latest funding round, Tidio raised $25M , which was Series B round held on May 12, 2022.
+</p>
 
-Tidio started as a digital advertising agency for small and medium business. During pandemic, because of the increase in online shopping, there was a overwhelming need to address the customer requests. Tidio stepped in here and it evolved into a development house for online marketing tools.
-Tidio is funded by venture capilists. Tidio had a total of two funding rounds so far and has raised a total of $26.8M .  PeakSpan Capital, Rafal Brzoska, Inovo VC, bValue, and Mariusz Fyrstenberg have invested in Tidio. In its latest funding round, Tidio raised $25M , which was Series B round held on May 12, 2022.
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
 
 ## Business Activities
 
 Tidio offers automate customer service that helps businesses provide great customer experiences with AI, live chat, Flows, email marketing, and ticketing.
 
-What makes Tidio popular is its simiplicity. As the co-founder and CEO Tytus Golas mentions, "simplicity in terms of implementation and structure". 
+What makes Tidio popular is its simiplicity. As the co-founder and CEO Tytus Golas mentions,
+
+> 
+> ### `"simplicity in terms of implementation and structure".`
+>
+> 
 Tidio integrates with third-party services including email providers, Facebook, Instagram, WordPress and Shopify, allowing teams to manage customer interactions from a shared inbox.
 In one of the interviews with TechCrunch, Golas mentioned , "
 Most of our clients get Tidio up and running within minutes and are seeing the value of our product within the same day. Our impact is twofold — you can streamline communication and increase your sales with our chatbot functionality".
