@@ -1,4 +1,4 @@
-# **<p align="center">Customer Service with AI (Tidio)</p>**
+# **<p align="center">Customer Service with AI [(Tidio)](https://www.tidio.com)</p>**
 
 ## Overview and Origin
 
@@ -18,13 +18,34 @@ What makes Tidio popular is its simiplicity. As the co-founder and CEO Tytus Gol
 > 
 > ### `"simplicity in terms of implementation and structure".`
 >
-> 
-Tidio integrates with third-party services including email providers, Facebook, Instagram, WordPress and Shopify, allowing teams to manage customer interactions from a shared inbox.
-In one of the interviews with TechCrunch, Golas mentioned , "
-Most of our clients get Tidio up and running within minutes and are seeing the value of our product within the same day. Our impact is twofold — you can streamline communication and increase your sales with our chatbot functionality".
-“[O]ur chatbots and sales generation features have a direct impact on return on investment and help increase sales and revenue — sometimes covering the entire cost of the Tidio subscription in one day.”
 
-According to G2 Stack and BuiltWith, some of the technologies that Tidio uses are HTML5, Disqus , DNSSEC, Global Site Tag, and Cloudflare CDN.
+- ### Integration: 
+<p>
+Tidio provides both platform integration and app integration with third party services including email providers .This allows teams to manage customer interactions from a shared inbox. 
+  
+Some of the platform integrations that Tidio provides are Shopify, WordPress, Squarespace, WIX, Adobe Commerce, Shopware, BigCommerce, PrestaShop, Ecwid by Lightspeed, Weebly, WooCommerce, OpenCart, Joomla, Jimdo, Webydo,Drupal, Shift4Shop, Site123. 
+
+Below are the App integrations that Tidio provides. Google Analytics, Klaviyo, Omnisend, Active Campaign, Mailer Lite, Brevo, Mailchimp, Hubspot, Pipedrive. 
+
+In one of the interviews with TechCrunch, Golas mentioned,
+  
+>
+> ### ` "Most of our clients get Tidio up and running within minutes and are seeing the value of our product within the same day. Our impact is twofold — you can streamline communication and increase your sales with our chatbot functionality".`
+>
+
+</p>
+
+<p>
+  
+>
+> ### ` “[O]ur chatbots and sales generation features have a direct impact on return on investment and help increase sales and revenue — sometimes covering the entire cost of the Tidio subscription in one day.”  `
+>
+  
+</p>
+
+
+- ### Technology : 
+According to G2 Stack and BuiltWith, some of the technologies that Tidio uses are HTML5, Disqus , DNSSEC, Global Site Tag, and Cloudflare CDN. It also uses  machine learning and infrastructure as code (IaC), which helps to quickly roll out new services. 
 
 * What specific problem is the company or project trying to solve?
 
@@ -39,13 +60,19 @@ According to G2 Stack and BuiltWith, some of the technologies that Tidio uses ar
 Tidio helps businesses provide great customer experiences with AI, live chat, Flows, email marketing and ticketing. Tidio is one of the top five live chat apps in the world. 
 
 One of the main innovation in Tidio is with their chat App Lyro, they greet customers with a "Welcome back" message and provide unique discount code. 
-* What field is the company in?
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+Tidio features Live chat, Chatbots, AI features and ticketing process for customers. It uses nnatural language processing and deep learning to improvise their live chat. 
 
-* What are the other major companies in this field?
+Olark, tawk.to, Kayako, Inbenta, and Uniphore are some of the 35 competitors of Tidio.
+
+The future plan of Tidio is to put the new capital toward marketing and expanding its 140-person workforce. The company aims to hire 100 people in the next year. The wide range of integrations makes it stand out from its competitors in the same field. 
 
 ## Results
+
+As there are numerous automated customer service options available, Tidio stands one of the top 5 chatbots available in the market. 
+
+The core metrics used for Chatbots are percentages based on goal completion rate (GCR) while others can be expressed as a total number of instances.  The other chatbot metrics used in this field are Customer Churn Percentage, MRR Churn Percentage, NET MR Churn, Expansion Revenue Percentage, Net Promoter Score(NPS) , Customer Satisfication Score (CSAT), Customer Experience Score. 
+
 
 * What has been the business impact of this company so far?
 
@@ -63,7 +90,7 @@ One of the main innovation in Tidio is with their chat App Lyro, they greet cust
 
 * Why are these technologies appropriate for your solution?
 
-##Addendum
+## Addendum
 
 https://www.tidio.com/
 https://www.tidio.com/integrations/
@@ -71,3 +98,4 @@ https://aws.amazon.com/partners/success/tidio-hostersi/#:~:text=About%20Tidio,ar
 https://pitchbook.com/
 https://tracxn.com/d/companies/tidio/__DZdr3Dr0qroXCNzKiyjAX2B36HUau5O2i0sgrKdLIvc/funding-and-investors#funding
 https://techcrunch.com/2022/05/12/tidio-raises-25m-to-automate-customer-service-interactions/
+https://bloggingguide.com/tidio-review/
